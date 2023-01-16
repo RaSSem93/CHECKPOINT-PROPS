@@ -1,0 +1,21 @@
+.ident {
+    display: flex;
+    margin: 60px;
+    justify-content: center;
+}
+
+.ima2 {
+    width: 250px;
+    height: 100%;
+    border-radius: 50px;
+} 
+
+
+.identf{
+    line-height: 20px;
+    font-style: italic;
+    font-weight: 20px;
+    font-size: 10px;
+    margin-left: 15px;
+    margin-top: 30px;
+}

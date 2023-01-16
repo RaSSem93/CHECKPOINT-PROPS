@@ -1,0 +1,33 @@
+.gro {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    
+    
+    
+}
+
+.ima3{
+    width: 100px;
+    display: flex;
+    padding-left: 45px;
+    padding-right: 45px;
+    
+    border-radius: 50px;
+
+}
+
+.grou1{
+
+    width: 190px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 10px;
+    background-color: brown;
+    
+    margin-top: 50px;
+    padding: 10px 5px;
+    
+}
